@@ -1,16 +1,15 @@
-### Hi there 👋
+# Moni 
 
-<!--
-**NotMoni/NotMoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Moni, I'm a avid coder 👨‍💻 who is passionate about coding and open source. I'm also an athlete and internet surfer 
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NodeJS apps
+- 🌱 I’m currently learning NodeJS
+- 💬 Ask me about: tech, games, sports
+- 😄 Pronouns: he/him
+-  ⚡ Languages: Java, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🦄
+
+---
