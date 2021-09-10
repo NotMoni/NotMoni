@@ -4,7 +4,7 @@
 ### <div align="center">A internet surfer🏄‍♂️, athlete and avid coder 👨‍💻 who is passionate about open source.</div>  
   
 
-- 🔭 I’m currently grinding leetcode 📈  
+- 🔭 I’m currently reading books. 📈  
   
 
 - 🌱 I’m currently learning about data structures.
