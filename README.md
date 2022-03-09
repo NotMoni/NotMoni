@@ -1,7 +1,7 @@
 ---
 <h1 align="center">Hi 👋, I'm Moni</h1>
   
-### <div align="center">A internet surfer🏄‍♂️, athlete and avid coder 👨‍💻 who is passionate about making money.</div>  
+### <div align="center">A internet surfer🏄‍♂️, athlete and avid coder 👨‍💻 who is passionate about quantitative finance.</div>  
   
 
 - 🔭 I’m currently reading books. 📈  
