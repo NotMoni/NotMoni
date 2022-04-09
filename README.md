@@ -1,18 +1,9 @@
 ---
 <h1 align="center">Hi 👋, I'm Moni</h1>
   
-### <div align="center">A internet surfer🏄‍♂️, athlete and avid coder 👨‍💻 who is passionate about quantitative finance.</div>  
+### <div align="center">I am passionate about quantitative finance.</div>  
   
-
-- 🔭 I’m currently reading books. 📈  
-  
-
-- 🌱 I’m currently learning about data structures.
-  
-
-- ⚡ Fun fact: **I like stocks.**  
-  
-
+<!-- 
 <br/>  
 
 <br/>  
@@ -45,4 +36,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NotMoni&&style=flat-square" align="center" />
 </div>  
-<br />
+<br /> -->
