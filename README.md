@@ -1,39 +1,5 @@
 ---
-<h1 align="center">Hi 👋, I'm Moni</h1>
+<h1 align="center">think at this...</h1>
   
-### <div align="center">I am passionate about quantitative finance.</div>  
-  
-<!-- 
-<br/>  
-
-<br/>  
-
-<table><tr><td valign="top" width="33%">
-
-### What I know
-</div>
-
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NotMoni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NotMoni&&style=flat-square" align="center" />
-</div>  
-<br /> -->
+### <div align="center">The Nova Effect: Everything happens for a reason</div>  
+### <div align="center">The Butterfly Effect: Everything you do today will change your future drastically</div>  
