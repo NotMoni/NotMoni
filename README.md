@@ -1,1 +1,1 @@
-<h1 align="center">doing sidequests. life too ez.</h1>
+<h1 align="center"trading.</h1>
